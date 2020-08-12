@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    background-color: #171c33;
+}
+
+
+.tagline {
+    text-align: center;
+    font-size: x-large;
+    color: #e0c426;
+}
+
+.link {
+    text-align: center;
+    font-size: x-large; 
+    color: #eccc14;
+    margin-bottom: 1% !important;
+}
+
