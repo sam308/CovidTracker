@@ -11,7 +11,7 @@ function Footer(props) {
             </div>
         
             <div className={styles.link}>
-                <a href="https://www.codeforces.com"><FaGithub /></a>
+                <a href="https://github.com/sam308/CovidTracker"><FaGithub /></a>
                 <div>© Samarpan Chakravarty, 2020.</div>
             </div>
         </div>
