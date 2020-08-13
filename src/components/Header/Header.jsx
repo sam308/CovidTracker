@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem, Jumbotron, Modal, ModalBody, ModalHeader, Button, Form, FormGroup, Label, Input } from 'reactstrap';
+import { Navbar, Nav, NavItem, Modal, ModalBody, ModalHeader, Button } from 'reactstrap';
 import styles from './Header.module.css';
 
 class Header extends Component {
